@@ -1,0 +1,22 @@
+{
+  "wheel_id": 857,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-156",
+  "project": "mortgage-broker-gold-coast-first-home-797cc3346057092125a9ecf5d",
+  "parent_t1_ref": "homeloanbrokergoldcoast-015",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "mortgage broker gold coast first home",
+  "intended_url": "https://sitesau.github.io/homeloanbrokergoldcoast-156/",
+  "tier": "T2",
+  "writeback_nonce": "d59c722b4406143c",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/mortgage-broker-gold-coast-015/",
+      "anchor": "https://sites-e470-1.web.app/mortgage-broker-gold-coast-015/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
